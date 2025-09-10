@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477646170623",
+    "project_id": "battery-monitor-5eefa",
+    "storage_bucket": "battery-monitor-5eefa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477646170623:android:9012342d0caadfc04b1fca",
+        "android_client_info": {
+          "package_name": "com.example.batterymonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNMD27iEKFE3IsOTYcnZv64Ia7NJy0LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
