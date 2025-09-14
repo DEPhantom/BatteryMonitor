@@ -7,8 +7,8 @@
 An Android app that lets you monitor your phone's battery from a PC command line.
 
 ## Dependencies 
-python 3
-android 7.0以上
+* python 3
+* android 7.0以上
 
 ## Download
 Download the latest pre-release from the [releases page](https://github.com/DEPhantom/BatteryMonitor/releases/tag/Pre-release).
@@ -46,9 +46,9 @@ Light idle mode disabled
 
 ~~5. 電源白名單~~
 
-## 額外事項
+## Extra Details
 
 > [!WARNING]  
-> 有可能有些功能不work on
-> Android 7~ 8、10~ 13
+> Some features may not work on
+> Android 7–8, 10–13
 
