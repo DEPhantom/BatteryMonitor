@@ -1,8 +1,12 @@
 # BatteryMonitor
 
-> 必須搭配另一個Server Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+> This project must be used in conjunction with [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+
+介紹內容
 
 ## Dependencies 
+python 3
+android 7.0以上
 
 ## Download
 
@@ -10,14 +14,25 @@
 
 To use Battery Monitor, follow these steps:
 
-1. adb連線
-2. 暫停doze mode
-```console
+1. Connect the device to your PC via ADB
+2. Disable Doze Mode using the following command:
+```sh
 adb shell dumpsys deviceidle disable
 ```
+3. You should see the following output:
+```sh
+Deep idle mode disabled
+Light idle mode disabled
+```
+:::info
+P.S. This needs to be done every time the device restarts.
+:::
 
-   ```kt
-    dependencies {
-        implementation("app.revanced:revanced-patcher:{$version}")
-    }
-   ```
+4. After installation, make sure to:
+
+* Enable notifications
+
+* Turn on notification sounds
+
+* Allow notifications on the lock screen
+~~5. 電源白名單~~
