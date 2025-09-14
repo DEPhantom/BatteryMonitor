@@ -1,5 +1,7 @@
 # BatteryMonitor
 
+![Logo](https://github.com/textualize/rich/raw/master/imgs/logo.svg)
+
 > This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer).
 
 An Android app that lets you monitor your phone's battery from a PC command line.
