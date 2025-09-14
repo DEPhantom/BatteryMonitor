@@ -1,14 +1,21 @@
 # BatteryMonitor
 
-> This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer)
+> This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer).
 
-介紹內容
+An Android app that lets you monitor your phone's battery from a PC command line.
 
 ## Dependencies 
 python 3
 android 7.0以上
 
 ## Download
+Download the latest pre-release from the [releases page](https://github.com/DEPhantom/BatteryMonitor).
+Or
+Build the project by yourself.
+
+```sh
+git clone https://github.com/DEPhantom/BatteryMonitor.git
+```
 
 ## Get started
 
