@@ -1,6 +1,6 @@
 # BatteryMonitor
 
-> This project must be used in conjunction with [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+> This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer)
 
 介紹內容
 
