@@ -9,7 +9,7 @@ python 3
 android 7.0以上
 
 ## Download
-Download the latest pre-release from the [releases page](https://github.com/DEPhantom/BatteryMonitor).
+Download the latest pre-release from the [releases page](https://github.com/DEPhantom/BatteryMonitor/releases/tag/Pre-release).
 Or
 Build the project by yourself.
 
@@ -31,9 +31,8 @@ adb shell dumpsys deviceidle disable
 Deep idle mode disabled
 Light idle mode disabled
 ```
-:::info
-P.S. This needs to be done every time the device restarts.
-:::
+> [!NOTE]  
+> P.S. This needs to be done every time the device restarts.
 
 4. After installation, make sure to:
 
@@ -42,4 +41,12 @@ P.S. This needs to be done every time the device restarts.
 * Turn on notification sounds
 
 * Allow notifications on the lock screen
+
 ~~5. 電源白名單~~
+
+## 額外事項
+
+> [!WARNING]  
+> 有可能有些功能不work on
+> Android 7~ 8、10~ 13
+
