@@ -1,6 +1,6 @@
 # BatteryMonitor
 
-![Logo](https://github.com/DEPhantom/BatteryMonitor/blob/main/img/cli-picture.jpg)
+![Logo](https://github.com/DEPhantom/BatteryMonitor/blob/main/img/Screenshot.jpg)
 
 > This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer).
 
